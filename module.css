@@ -1,0 +1,15 @@
+/* 
+   Hit Counters Module
+   Copyright 2007 iFinity
+*/
+
+.HitCountersSettings
+{
+	/* contains the settings */
+}
+
+.HitCountersSettingsTable
+{
+	/* table to hold the settings */
+	font-size:smaller;
+}
